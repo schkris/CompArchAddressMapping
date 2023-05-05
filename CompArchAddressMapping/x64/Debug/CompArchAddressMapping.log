@@ -1,0 +1,4 @@
+﻿  Source.cpp
+C:\Users\kris\source\repos\CompArchAddressMapping\Source.cpp(32,25): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\kris\source\repos\CompArchAddressMapping\Source.cpp(42,20): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  CompArchAddressMapping.vcxproj -> C:\Users\kris\source\repos\CompArchAddressMapping\x64\Debug\CompArchAddressMapping.exe
